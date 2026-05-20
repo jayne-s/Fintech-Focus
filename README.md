@@ -27,7 +27,6 @@ easy-to-understand wellness advice, and inspire employees to take proactive step
 ## How to Run
 
 * The site is hosted on GitHub Pages and authored using HTML, CSS, Bootstrap, Python, and Flask.
-* [Website Link](https://jayne-s.github.io/Fintech-Focus/)
   
 ## Possible Extensions
 
